@@ -1,0 +1,81 @@
+.Section1 {
+    padding:20px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 350%;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    background-color: grey;
+  }
+
+.logo1 {
+    width: 100px;
+    height: auto;
+    border-radius: 15px;
+}
+.logo {
+    padding: 20px;
+    position: absolute;
+    top: 55%;
+    left: 120%;
+    transform:translate(-50%, -50%);
+}
+.Section2 {
+    text-align: center;
+    top: 35%;
+    left: 43%;
+    position: absolute;
+}
+
+.phonk {
+    padding:20px;
+    position: absolute;
+    top: 400%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.manele {
+    padding:20px;
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Music {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:200%
+}
+
+.block{
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    background-color:white;
+    border-radius: 15%;
+}
+
+
+.else {
+    padding:20px;
+    position: absolute;
+    top: 600%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
